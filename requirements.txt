@@ -1,4 +1,4 @@
 psutil
-GPUtil
 py-cpuinfo
-wmi
+GPUtil
+wmi; platform_system == "Windows"
